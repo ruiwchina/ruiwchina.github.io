@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[ruiwchina's blog]]></title>
+  <subtitle><![CDATA[技术积累之地]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com//"/>
+  <updated>2015-06-27T13:31:46.835Z</updated>
+  <id>http://yoursite.com//</id>
+  
+  <author>
+    <name><![CDATA[ruiwchina]]></name>
+    <email><![CDATA[gruiwchina@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[开篇之作]]></title>
+    <link href="http://yoursite.com/2015/06/27/my-new-post/"/>
+    <id>http://yoursite.com/2015/06/27/my-new-post/</id>
+    <published>2015-06-27T10:23:35.000Z</published>
+    <updated>2015-06-27T13:31:46.835Z</updated>
+    <content type="html"><![CDATA[<p>   年少时也喜舞文弄墨，后一不小心混入IT圈，成为“苦逼程序猿”一枚。多年沉溺于代码之中，写作能<br>力退化的厉害,错别字连篇，提笔忘字，识字识半边等等；再加上年龄渐长，记忆力大不如前，方明白“好<br>记性不如烂笔头”的道理。</p>
+<p>  综上所述，今日起，重拾写作。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>   年少时也喜舞文弄墨，后一不小心混入IT圈，成为“苦逼程序猿”一枚。多年沉溺于代码之中，写作能<br>力退化的厉害,错别字连篇，提笔忘字，识字识半边等等；再加上年龄渐长，记忆力大不如前，方明白“好<br>记性不如烂笔头”的道理。</p>
+<p>  综上所述，今日起，重拾]]>
+    </summary>
+    
+      <category term="感悟" scheme="http://yoursite.com/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/06/27/hello-world/"/>
+    <id>http://yoursite.com/2015/06/27/hello-world/</id>
+    <published>2015-06-27T01:20:49.858Z</published>
+    <updated>2015-06-27T01:20:49.858Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
