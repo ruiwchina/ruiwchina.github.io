@@ -5,7 +5,7 @@
   <subtitle><![CDATA[技术积累之地]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-06-27T13:31:46.835Z</updated>
+  <updated>2015-09-20T16:27:01.053Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[web新手上路]]></title>
+    <link href="http://yoursite.com/2015/09/19/meanjs-first-post/"/>
+    <id>http://yoursite.com/2015/09/19/meanjs-first-post/</id>
+    <published>2015-09-19T09:41:36.000Z</published>
+    <updated>2015-09-20T16:27:01.053Z</updated>
+    <content type="html"><![CDATA[<p>  距开篇之作已经将近3个月了，一晃又好长时间没有写东西了。估计再不写点东西，这个地方也就被自己的懒病给废掉了。作为一个自律不是那么好的人，外在的鞭子抽一抽还是很管用的。在此留个承诺：</p>
+<blockquote>
+<p><strong>至少每月更新一篇，欢迎大家监督。第一个发现我没有做到的，有奖品</strong>。</p>
+</blockquote>
+<p> 言归正传，一直以来其实对于做前端是很抗拒的。读研期间，项目组的师姐主要负责移动视频监控系统的PC客户端，其实就是拿MFC做界面。然后就发现很悲剧，不管懂与不懂，谁都过来来说两句。一人一个看法，整天改来改去。有人说不是有设计师吗？别跟我提设计师，在导师眼里，你就是万能的，啥都应该能干。师姐有一段时间每天都在画图里面改像素点。看着都让人害怕，我想做的技术可不是这个样子的。毕业的时候，直接就断了前端的念头，老老实实去做后台，系统和分布式软件去了。<br> 刚开始的工作是高性能集群作业调度器的开发和维护，一个命令行为主的软件，连界面都没有。后来转去做商业分析，也主要局限于算法实现这一块，也是跟前端没什么关系。</p>
+<p> 虽然在有些领域的积累越来越深，但是面还是有些窄。另外发现自己之前的理解，做前端就是做界面，有些片面。还有就是外在的鞭子，未来一些项目可能需要用到一些前端的东西。艺多不压身，因此决定重回前端。</p>
+<p>在胡同学的帮助之下，选定的技术栈为 <a href="http://meanjs.org/" target="_blank" rel="external">meanjs</a> </p>
+<pre><code>`MongoDB+Express+AngularJS+Node<span class="class">.js</span>.`
+</code></pre><p>  关于选择的过程，我会在后续的文章中简单说明。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>  距开篇之作已经将近3个月了，一晃又好长时间没有写东西了。估计再不写点东西，这个地方也就被自己的懒病给废掉了。作为一个自律不是那么好的人，外在的鞭子抽一抽还是很管用的。在此留个承诺：</p>
+<blockquote>
+<p><strong>至少每月更新一篇，欢迎大家监督。]]>
+    </summary>
+    
+      <category term="meanjs" scheme="http://yoursite.com/tags/meanjs/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[开篇之作]]></title>
